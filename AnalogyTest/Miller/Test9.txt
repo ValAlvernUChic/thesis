@@ -1,0 +1,104 @@
+1. WOOD : (____) :: BUTTER : KNIFE
+
+A. string
+B. paper
+C. saw
+D. drill
+
+2. FORD : (____) :: STREAM : MOUNTAIN
+
+A. pass
+B. route
+C. field
+D. scale
+
+3. SUPPORT : PATRON :: (____) : INSPIRATION
+
+A. braggart
+B. muse
+C. parent
+D. soldier
+
+4. (____) : WARDEN :: MUSEUM : PRISON
+
+A. archaeologist
+B. servant
+C. conductor
+D. curator
+
+5. INCUMBENT : OFFICE :: MONARCH : (____)
+
+A. presidency
+B. accommodation
+C. station
+D. throne
+
+6. (____) : EXPERIENCE :: VAGRANT : ABODE
+
+A. protestor
+B. magnate
+C. neophyte
+D. scholar
+
+7. SYMPHONY : MUSIC :: (____) : POEM
+
+A. epic
+B. anecdote
+C. opera
+D. anthem
+
+8. (____) : PALINDROME :: REARRANGED : REVERSED
+
+A. epithet
+B. metaphor
+C. acronym
+D. anagram
+
+9. SYNTHESIS : PARTS :: CONFLUENCE : (____)
+
+A. mergers
+B. streams
+C. ores
+D. parallels
+
+10. SALK : PASTEUR :: POLIO : (____)
+
+A. rabies
+B. liquids
+C. smallpox
+D. antibodies
+
+11. CRITERIA : DATA :: CRITERION : (____)
+
+A. information
+B. datum
+C. item
+D. date
+
+12. BELLICOSE : (____) :: PLIANT : TRACTABILITY
+
+A. compliance
+B. aggression
+C. vacillation
+D. sobriety
+
+13. CHOLERIC : ANGER :: (____) : OPTIMISM
+
+A. sanguine
+B. saturnine
+C. introverted
+D. jaundiced
+
+14. TORTUOUS : (____) :: VENAL : VENIAL
+
+A. trivial
+B. arduous
+C. torturous
+D. corrupt
+
+15. (____) : AMELIORATE :: WORSE : BETTER
+
+A. elucidate
+B. engender
+C. accredit
+D. exacerbate 

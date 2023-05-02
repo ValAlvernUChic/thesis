@@ -1,0 +1,16 @@
+Question	Your Answer	Correct Answer	Result	Explanation
+1.	C	D	Wrong	Explain
+2.	C	D	Wrong	Explain
+3.	C	C	Correct	 
+4.	C	C	Correct	 
+5.	C	A	Wrong	Explain
+6.	C	D	Wrong	Explain
+7.	C	B	Wrong	Explain
+8.	C	A	Wrong	Explain
+9.	C	C	Correct	 
+10.	C	B	Wrong	Explain
+11.	C	B	Wrong	Explain
+12.	C	A	Wrong	Explain
+13.	C	D	Wrong	Explain
+14.	C	A	Wrong	Explain
+15.	C	B	Wrong	Explain
